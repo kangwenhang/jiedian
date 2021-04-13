@@ -5,100 +5,84 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君), server: 89.46.223.192, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2, server: 89.46.223.190, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3, server: 195.181.171.238, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4, server: 195.140.215.100, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5, server: 185.38.148.228, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6, server: 185.193.36.184, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7, server: 185.188.61.35, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 伊朗(欢迎订阅Youtube破解资源君), server: 185.108.106.106, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君), server: 89.187.163.212, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2, server: 89.187.163.212, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3, server: 89.187.163.210, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4, server: 89.187.163.210, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇨🇳 台湾(欢迎订阅Youtube破解资源君), server: 2.58.242.53, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
-  - {name: 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2, server: 2.58.242.133, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3, server: 2.58.242.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4, server: 2.58.242.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 斯洛伐克(欢迎订阅Youtube破解资源君), server: 37.120.221.5, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 斯洛伐克(欢迎订阅Youtube破解资源君) 2, server: 37.120.194.99, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 斯洛伐克(欢迎订阅Youtube破解资源君) 3, server: 37.120.194.99, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇯🇵 日本(欢迎订阅Youtube破解资源君), server: 45.87.213.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君), server: 89.187.187.66, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2, server: 89.187.168.51, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3, server: 89.187.168.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4, server: 89.187.168.46, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5, server: 208.78.41.197, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6, server: 143.244.42.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7, server: 104.200.131.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 罗马(欢迎订阅Youtube破解资源君), server: 79.110.54.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 2, server: 193.29.107.99, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 3, server: 193.29.107.221, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 4, server: 193.29.107.117, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 5, server: 193.29.107.109, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 6, server: 193.29.107.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 罗马(欢迎订阅Youtube破解资源君) 7, server: 193.29.107.101, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 捷克(欢迎订阅Youtube破解资源君), server: 89.187.168.44, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 捷克(欢迎订阅Youtube破解资源君) 2, server: 89.187.168.41, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君), server: 66.115.147.92, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2, server: 66.115.147.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3, server: 66.115.147.82, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4, server: 66.115.147.82, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5, server: 66.115.147.82, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6, server: 66.115.147.82, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7, server: 66.115.147.77, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇳🇱 荷兰(欢迎订阅Youtube破解资源君), server: 212.102.35.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君), server: 196.244.191.93, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2, server: 196.244.191.91, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3, server: 196.244.191.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4, server: 196.244.191.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5, server: 196.244.191.35, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6, server: 194.110.115.75, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7, server: 194.110.115.251, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君), server: 185.2.100.168, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2, server: 185.2.100.168, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3, server: 185.134.23.40, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4, server: 178.238.231.53, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5, server: 178.238.231.53, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6, server: 173.237.207.44, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君), server: 37.120.194.165, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2, server: 37.120.194.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3, server: 37.120.194.165, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4, server: 37.120.194.109, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5, server: 37.120.194.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6, server: 2.58.46.3, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7, server: 2.58.242.53, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 波兰(欢迎订阅Youtube破解资源君), server: 5.133.8.115, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 波兰(欢迎订阅Youtube破解资源君) 2, server: 5.133.14.196, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君), server: 217.138.222.53, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2, server: 217.138.207.243, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君), server: 37.120.194.109, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2, server: 37.120.194.109, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3, server: 37.120.194.91, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4, server: 37.120.194.91, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5, server: 37.120.194.93, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇳🇱 荷兰(欢迎订阅Youtube破解资源君), server: 212.102.35.206, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2, server: 212.102.42.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君), server: 66.115.147.77, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2, server: 66.115.182.77, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3, server: 66.115.182.77, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君), server: 104.200.131.233, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2, server: 104.200.131.245, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3, server: 104.200.131.249, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4, server: 104.200.131.249, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5, server: 104.200.131.249, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6, server: 104.244.210.117, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7, server: 104.244.210.139, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8, server: 143.244.60.164, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9, server: 143.244.60.169, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10, server: 154.16.171.213, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11, server: 156.146.33.73, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12, server: 192.40.59.227, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13, server: 193.29.106.5, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14, server: 193.29.107.101, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15, server: 193.29.107.117, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16, server: 193.29.107.125, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17, server: 193.29.107.91, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18, server: 193.29.107.93, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19, server: 207.244.84.58, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20, server: 209.216.92.3, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21, server: 209.216.92.3, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22, server: 45.89.173.205, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24, server: 45.89.173.205, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25, server: 74.119.146.131, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26, server: 79.110.54.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27, server: 79.110.54.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.134.23.40, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 2, server: 185.134.23.40, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 3, server: 185.134.23.40, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 4, server: 185.242.5.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 5, server: 185.76.8.212, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 6, server: 188.92.78.145, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 7, server: 188.92.78.145, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 8, server: 188.92.78.145, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 9, server: 188.92.78.145, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 10, server: 188.92.78.145, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 11, server: 188.92.78.152, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君), server: 185.102.217.159, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2, server: 185.102.217.159, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3, server: 185.102.217.159, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4, server: 185.124.240.145, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5, server: 185.124.240.153, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6, server: 185.124.240.169, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7, server: 185.134.22.115, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君), server: 81.19.214.36, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2, server: 89.187.162.186, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3, server: 89.187.163.210, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4, server: 89.187.163.210, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5, server: 89.187.163.210, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6, server: 89.187.168.56, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7, server: 89.45.7.51, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -106,72 +90,66 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -179,73 +157,67 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -253,81 +225,71 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -335,72 +297,66 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -408,73 +364,67 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -482,47 +432,51 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -538,26 +492,16 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
-      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
-      - 伊朗(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君)
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 2
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 3
-      - 🇸🇬 新加坡(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君)
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇳 台湾(欢迎订阅Youtube破解资源君) 4
-      - 斯洛伐克(欢迎订阅Youtube破解资源君)
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 2
-      - 斯洛伐克(欢迎订阅Youtube破解资源君) 3
-      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
+      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
+      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
@@ -565,47 +509,51 @@ proxy-groups:
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
       - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
-      - 罗马(欢迎订阅Youtube破解资源君)
-      - 罗马(欢迎订阅Youtube破解资源君) 2
-      - 罗马(欢迎订阅Youtube破解资源君) 3
-      - 罗马(欢迎订阅Youtube破解资源君) 4
-      - 罗马(欢迎订阅Youtube破解资源君) 5
-      - 罗马(欢迎订阅Youtube破解资源君) 6
-      - 罗马(欢迎订阅Youtube破解资源君) 7
-      - 捷克(欢迎订阅Youtube破解资源君)
-      - 捷克(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君)
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 2
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 3
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 4
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 5
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 6
-      - 🇨🇦 加拿大(欢迎订阅Youtube破解资源君) 7
-      - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君)
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 2
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 3
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 4
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 5
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 6
-      - 🇫🇮 芬兰(欢迎订阅Youtube破解资源君) 7
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君)
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇪 德国(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君)
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 2
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 3
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 4
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 5
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 6
-      - 🇩🇰 丹麦(欢迎订阅Youtube破解资源君) 7
-      - 波兰(欢迎订阅Youtube破解资源君)
-      - 波兰(欢迎订阅Youtube破解资源君) 2
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君)
-      - 🇮🇪 爱尔兰都柏林(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 13
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 14
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 15
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 16
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 17
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 18
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 19
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 20
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 21
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 22
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 23
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 24
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 25
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 26
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 27
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君)
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 2
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 3
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 4
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 5
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 6
+      - 🇨🇭 瑞士(欢迎订阅Youtube破解资源君) 7
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君)
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 2
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 3
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 4
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 5
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 6
+      - 🇬🇧 英国(欢迎订阅Youtube破解资源君) 7
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -8378,660 +8326,7 @@ rules:
  - DOMAIN-SUFFIX,xxwkjl.com,🛑 全球拦截
  - DOMAIN-SUFFIX,xxxa.aikeapp.com,🛑 全球拦截
  - DOMAIN-SUFFIX,xxyzwtsylw.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xy.shijialianzuishuai.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xycnz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyd.sxmdxy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyimg.net,🛑 全球拦截
- - DOMAIN-SUFFIX,xyly2016.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyqptm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyqxr.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyrhd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyrkl.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyssp.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xytom.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyxy01.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xyy.code.weddingeeos.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xz.ercfh.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xz-development.oss-cn-beijing.aliyuncs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xzq.greenxf.net,🛑 全球拦截
- - DOMAIN-SUFFIX,xztms.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xzyituo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xzzyi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.3957957.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.damifan.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,y.gwylm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.hk9600.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.hzht666.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.shuoshuocm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.xinghao89.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y.zxwdw.com,🛑 全球拦截
- - DOMAIN-SUFFIX,y0.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yadro.ru,🛑 全球拦截
- - DOMAIN-SUFFIX,yads.c.yimg.jp,🛑 全球拦截
- - DOMAIN-SUFFIX,yads.yahoo.co.jp,🛑 全球拦截
- - DOMAIN-SUFFIX,yageben.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yam.adsbro.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yandui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yangdasen.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yanglaopt.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yao.zzsdjq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yaohq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yatemy.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yb.torchbrowser.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ybtianxi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yccdn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ychml.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ychun03.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yd126.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ydjs.zol.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ydlnt.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ydpushserver.youdao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ydqzkj.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yea.uploadimagex.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yeabble.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yeas.yahoo.co.jp,🛑 全球拦截
- - DOMAIN-SUFFIX,yee.js.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yellowto.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yengo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yesbeby.whies.info,🛑 全球拦截
- - DOMAIN-SUFFIX,yess.imneinei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yezilm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yf898.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yfcode.m.gxwztv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yfxpcode.m.gxwztv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yfycy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yhtcd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yhzm.cc,🛑 全球拦截
- - DOMAIN-SUFFIX,yicha.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yidulive.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yieldmanager.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yigao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yigyx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yiiwoo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yijia2009.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yijifen.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yiluup.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yin1.zgpingshu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yingxiao.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yinhaijuan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yinooo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yinyuehu.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yiranxian.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yiwk.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yiwuds.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yixui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yizhenya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yk0712.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ykbei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ykjmy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yktj.yzz.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ykxwn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yl850555.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ylads.yaolan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ylog.hiido.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ylunion.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ylwy168.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ymapp.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ymcdn.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ymcqb.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ymrzr.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yn.001fzc.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ynbojie.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yndianju.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ynmbz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yongkang6.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yongv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yoo.yiiyoo.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yooli.com,🛑 全球拦截
- - DOMAIN-SUFFIX,you1ad.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youfumei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youjia2016.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youka.la,🛑 全球拦截
- - DOMAIN-SUFFIX,youle.tom.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youle55.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youmi.net,🛑 全球拦截
- - DOMAIN-SUFFIX,youmsm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yousee.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youxi.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youxiaoad.com,🛑 全球拦截
- - DOMAIN-SUFFIX,youxicool.net,🛑 全球拦截
- - DOMAIN-SUFFIX,youzehui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yoyi.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yoyi.tv,🛑 全球拦截
- - DOMAIN-SUFFIX,ypmeiwen.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ypmob.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yqjxzw.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yqw88.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yrt7dgkf.exashare.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yrxmr.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ysej.code.weddingeeos.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ysjwj.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ysm.hauchi.com.tw,🛑 全球拦截
- - DOMAIN-SUFFIX,ysm.yahoo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yt.mmstat.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ytapi1.nagezan.net,🛑 全球拦截
- - DOMAIN-SUFFIX,ytdksb.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ytguowang.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ytmx.2r3485.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yts.ytsyyey.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ytsyyey.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yuanming.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yueyelive.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yug8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yule8.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yulzs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yumcs.xiaohuau.xyz,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.lvehaisen.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.rili.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.sifuhe.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.tuia.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.tuisnake.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yun.yuyiya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yun1.yahoo001.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yunanfuwuqi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yunbofangbt.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yundingjiayuan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yunjiasu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yunshipei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yunxuu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yuyue008.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ywjxsp168.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,yx.lenovomm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yxhxs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yxjad.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yxs.tymsyx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yxszy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yxxwyz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yy58ju.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yyb.pc6.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yyffeicd.m.qxs.la,🛑 全球拦截
- - DOMAIN-SUFFIX,yyjxgm.net,🛑 全球拦截
- - DOMAIN-SUFFIX,yyp17.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yyt.irs01.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yzaosite.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yzh.jyjhkz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yzh360.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yzygo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yzytb.com,🛑 全球拦截
- - DOMAIN-SUFFIX,z.clickvip.shop,🛑 全球拦截
- - DOMAIN-SUFFIX,z.moatads.com,🛑 全球拦截
- - DOMAIN-SUFFIX,z.nowscore.com,🛑 全球拦截
- - DOMAIN-SUFFIX,z.sora.yoyi.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,z1.zedo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,z1hihu.xmcimg.com,🛑 全球拦截
- - DOMAIN-SUFFIX,z2.lnymd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zads.care2.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zae.gzzena.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zamar.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zampdsp.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zantainet.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zapads.zapak.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zb.nxing.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zbz.m.qxs.la,🛑 全球拦截
- - DOMAIN-SUFFIX,zcdsp.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zcrtd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zdjby.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zdw.w8.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ze5.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zedo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zeus.qj.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zgc66.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zgdfz6h7po.me,🛑 全球拦截
- - DOMAIN-SUFFIX,zgfszs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zgjkv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zgksb.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zgty365.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zgunion.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zgyemy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhanzhang.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zhao258.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhaoshang8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zh-cn.shenyun.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zh-cn.shenyun.org,🛑 全球拦截
- - DOMAIN-SUFFIX,zheng.cs12d.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhichi08.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhidian3g.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zhifenjie.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhihei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhihu.xmcimg.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhiong.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zhiyuanteam.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhiziyun.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhongchouyan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhongzicili.cc,🛑 全球拦截
- - DOMAIN-SUFFIX,zhtjdl.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhuanfakong.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhuba8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhudiaosz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhushou.2345.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zhuuv.maoyumao.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zhwnlapi.etouch.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zhybzp.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zisunion.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zizcy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zjbdt.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zjhim.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zjjgtz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zjm.zzmmkj.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zkrdy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zlongad.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zlsw.nnjxqd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zmj.guanqinjie.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,znsv.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zo66.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zp22938576.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zpe.klre.18183.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zq84.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zqworks.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zqzxz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zreder.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zrpfk.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zs0613.mengchengbao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zs1111.youzue.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zsdexun.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zshacker.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zst.jzntxs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zsxpx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zszwcp.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zt2088.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ztidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ztxbd.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zuche321.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zuiceshi.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zuimeitianqi.inveno.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zws.avvo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.tagtic.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ulogs.umeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zx.baosmx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxcs.ggwan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxcs.linghit.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxh.bzshzx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxjjzx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxr.fzxrjx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zxziyuan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zybpj.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zyf.fzdfwy.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zymo.mps.weibo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zymro.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zytwq.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zyz.91friend.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zyz1.91friend.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zz.bdstatic.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zz123.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzbaowen.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzcw.office-mall.net,🛑 全球拦截
- - DOMAIN-SUFFIX,zzjs2.firefang.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,zzpush.58.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzrcz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzsx8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzy.mipujia.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzy1.mipujia.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzy1.quyaoya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzz7.52896368.com,🛑 全球拦截
- - DOMAIN-SUFFIX,zzzzz4.52896368.com,🛑 全球拦截
- - DOMAIN-SUFFIX,analytics.query.yahoo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,42trck.com,🛑 全球拦截
- - DOMAIN-SUFFIX,51.la,🛑 全球拦截
- - DOMAIN-SUFFIX,adcolony.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adinfuse.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adjust.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adjust.io,🛑 全球拦截
- - DOMAIN-SUFFIX,admaster.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,admob.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adnyg.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adsensor.org,🛑 全球拦截
- - DOMAIN-SUFFIX,adtarget.tech,🛑 全球拦截
- - DOMAIN-SUFFIX,adthor.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adwhirl.com,🛑 全球拦截
- - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
- - DOMAIN-SUFFIX,amobee.com,🛑 全球拦截
- - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,app-adforce.jp,🛑 全球拦截
- - DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
- - DOMAIN-SUFFIX,appads.com,🛑 全球拦截
- - DOMAIN-SUFFIX,appier.net,🛑 全球拦截
- - DOMAIN-SUFFIX,applift.com,🛑 全球拦截
- - DOMAIN-SUFFIX,appsflyer.com,🛑 全球拦截
- - DOMAIN-SUFFIX,apsalar.com,🛑 全球拦截
- - DOMAIN-SUFFIX,apxadtracking.net,🛑 全球拦截
- - DOMAIN-SUFFIX,axonix.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
- - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,flurry.com,🛑 全球拦截
- - DOMAIN-SUFFIX,go2cloud.org,🛑 全球拦截
- - DOMAIN-SUFFIX,growingio.com,🛑 全球拦截
- - DOMAIN-SUFFIX,haloapps.com,🛑 全球拦截
- - DOMAIN-SUFFIX,inmobi.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,inmobi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,inmobi.net,🛑 全球拦截
- - DOMAIN-SUFFIX,inmobicdn.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,irs01.com,🛑 全球拦截
- - DOMAIN-SUFFIX,iskyworker.com,🛑 全球拦截
- - DOMAIN-SUFFIX,kochava.com,🛑 全球拦截
- - DOMAIN-SUFFIX,leadboltmobile.net,🛑 全球拦截
- - DOMAIN-SUFFIX,lenzmx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,liveadvert.com,🛑 全球拦截
- - DOMAIN-SUFFIX,lnk0.com,🛑 全球拦截
- - DOMAIN-SUFFIX,lnk8.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,localytics.com,🛑 全球拦截
- - DOMAIN-SUFFIX,measurementapi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,medialytics.com,🛑 全球拦截
- - DOMAIN-SUFFIX,miaozhen.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobclix.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mopub.com,🛑 全球拦截
- - DOMAIN-SUFFIX,qchannel01.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,rayjump.com,🛑 全球拦截
- - DOMAIN-SUFFIX,rubiconproject.com,🛑 全球拦截
- - DOMAIN-SUFFIX,scorecardresearch.com,🛑 全球拦截
- - DOMAIN-SUFFIX,sdkclick.com,🛑 全球拦截
- - DOMAIN-SUFFIX,shuzilm.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,smaato.net,🛑 全球拦截
- - DOMAIN-SUFFIX,smartadserver.com,🛑 全球拦截
- - DOMAIN-SUFFIX,smartnews-ads.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tagtic.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,tanv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tanx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,trafficjunky.net,🛑 全球拦截
- - DOMAIN-SUFFIX,turn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,uri6.com,🛑 全球拦截
- - DOMAIN-SUFFIX,voicefive.com,🛑 全球拦截
- - DOMAIN-SUFFIX,vungle.com,🛑 全球拦截
- - DOMAIN-SUFFIX,wedolook.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xdrig.com,🛑 全球拦截
- - DOMAIN-SUFFIX,abema-adx.ameba.jp,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.12306.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.51wnl-cq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.caiyunapp.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.huajiao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.hzyoka.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.jiemian.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.qingting.fm,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.wappalyzer.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad-cn.jovcloud.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adextra.51wnl-cq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.adadapted.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.daydaycook.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.weilitoutiao.net,🛑 全球拦截
- - DOMAIN-SUFFIX,adsapi.manhuaren.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adsdk.dmzj.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adserver.pandora.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adui.tg.meitu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adv.bandi.so,🛑 全球拦截
- - DOMAIN-SUFFIX,goblin.hupu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adx.hupu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adx-api.hupu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,app-ad.variflight.com,🛑 全球拦截
- - DOMAIN-SUFFIX,applog.mobike.com,🛑 全球拦截
- - DOMAIN-SUFFIX,appnext.hs.llnwd.net,🛑 全球拦截
- - DOMAIN-SUFFIX,appnext-a.akamaihd.net,🛑 全球拦截
- - DOMAIN-SUFFIX,ggs.myzaker.com,🛑 全球拦截
- - DOMAIN-SUFFIX,itad.linetv.tw,🛑 全球拦截
- - DOMAIN-SUFFIX,ja.chushou.tv,🛑 全球拦截
- - DOMAIN-SUFFIX,mads.suning.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mopnativeadv.037201.com,🛑 全球拦截
- - DOMAIN-SUFFIX,nativeadv.dftoutiao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,optimus-ads.amap.com,🛑 全球拦截
- - DOMAIN-SUFFIX,sugar.zhihu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,track.tiara.daum.net,🛑 全球拦截
- - DOMAIN-SUFFIX,track.tiara.kakao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,trackapp.guahao.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,traffic.mogujie.com,🛑 全球拦截
- - DOMAIN-SUFFIX,wmlog.meituan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adshow.58.com,🛑 全球拦截
- - DOMAIN-SUFFIX,track.58.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tracklog.58.com,🛑 全球拦截
- - DOMAIN-SUFFIX,iadsdk.apple.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.internal.unity3d.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,🛑 全球拦截
- - DOMAIN-SUFFIX,unityads.unity3d.com,🛑 全球拦截
- - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adash.man.aliyuncs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adashbc.ut.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adash-c.ut.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adashxgc.ut.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adashx4yt.m.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,h-adashx.ut.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tunion-api.m.taobao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adproxy.autohome.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,rd.autohome.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.k.21cn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,al.autohome.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,applogapi.autohome.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,baidustatic.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cpro.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,pos.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,afd.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,als.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,duclick.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,hm.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,hmma.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobads.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobads-logs.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,nsclick.baidu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,applog.musical.ly,🛑 全球拦截
- - DOMAIN-SUFFIX,track.toutiao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xlog.snssdk.com,🛑 全球拦截
- - DOMAIN-SUFFIX,xlog-va.byteoversea.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adx.yiche.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.ycapp.yiche.com,🛑 全球拦截
- - DOMAIN-SUFFIX,advertise.baicizhan.org,🛑 全球拦截
- - DOMAIN-SUFFIX,advertise.baicizhan.com,🛑 全球拦截
- - DOMAIN-SUFFIX,galaxy.bjcathay.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,vdapprecv.app.cntvwb.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,admarket.21cn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adshows.21cn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,atrace.chelaile.net.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,logs.chelaile.net.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,doubleclick.net,🛑 全球拦截
- - DOMAIN-SUFFIX,googleadservices.com,🛑 全球拦截
- - DOMAIN-SUFFIX,googleadsserving.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,googlesyndication.com,🛑 全球拦截
- - DOMAIN-SUFFIX,googletagmanager.com,🛑 全球拦截
- - DOMAIN-SUFFIX,googletagservices.com,🛑 全球拦截
- - DOMAIN-SUFFIX,da.mgtv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,da.hunantv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.hunantv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.v2.hunantv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,v2.log.hunantv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ifacelog.iqiyi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,msg.71.am,🛑 全球拦截
- - DOMAIN-SUFFIX,deliver.ifeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,api.newad.ifeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ifengad.3g.ifeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adserviceretry.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.service.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.stat.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.web.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,kgmobilestat.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,kgmobilestatbak.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobilelog.kugou.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobilead.kuwo.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,rich.kuwo.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ad-stat.ksosoft.com,🛑 全球拦截
- - DOMAIN-SUFFIX,img.auction-ads.wpscdn.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,counter.ksosoft.com,🛑 全球拦截
- - DOMAIN-SUFFIX,minfo.wps.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,webp2p.letv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ark.letv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,emma-414870e223.huodonghezi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,g3.letv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,n.mark.letv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.intl.xiaomi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.xiaomi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,admob.xiaomi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tracking.miui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adv.sec.intl.miui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adv.sec.miui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tracking.intl.miui.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.api.moji.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adlaunch.moji.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.mojicdn.com,🛑 全球拦截
- - DOMAIN-SUFFIX,v1.log.moji.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.bn.netease.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.yixin.im,🛑 全球拦截
- - DOMAIN-SUFFIX,admusicpic.music.126.net,🛑 全球拦截
- - DOMAIN-SUFFIX,iadmusicmat.music.126.net,🛑 全球拦截
- - DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net,🛑 全球拦截
- - DOMAIN-SUFFIX,impservice.dictapp.youdao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,impservice.youdao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log.yex.youdao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,log-yex.youdao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,n.3g.163.com,🛑 全球拦截
- - DOMAIN-SUFFIX,nex.163.com,🛑 全球拦截
- - DOMAIN-SUFFIX,yt-adp.nosdn.127.net,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.aplus.pptv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.aplusapi.pptv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,asimgs.pplive.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,de.as.pptv.com,🛑 全球拦截
- - DOMAIN-SUFFIX,regist.fotoable.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cdn.adapi.fotoable.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adnew.wifi8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adfile.wifi8.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adimg.vue.weibo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,u1.img.mobile.sina.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,sax.sina.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,saxs.sina.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,saxn.sina.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.sohu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ads.sohu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,aty.sohu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,imp.optaim.com,🛑 全球拦截
- - DOMAIN-SUFFIX,v2.reachmax.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,track.sohu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,hui.sohu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,bugly.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,e.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,gdt.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,rqd.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adsmind.tc.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,btrace.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mtrace.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,oth.eve.mdt.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,pgdt.gtimg.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,pingma.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,pingtcss.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,splashqqlive.gtimg.com,🛑 全球拦截
- - DOMAIN-SUFFIX,tajs.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,🛑 全球拦截
- - DOMAIN-SUFFIX,imgadpai.thepaper.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,admonitor.thepaper.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,adsp.xunlei.com,🛑 全球拦截
- - DOMAIN-SUFFIX,etl.xlmc.sandai.net,🛑 全球拦截
- - DOMAIN-SUFFIX,adm.10jqka.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,stat.10jqka.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ad-analysis.pconline.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,iad0ssl.pcauto.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,iad0ssl.pconline.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,imgad0.pcauto.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,imgad0.pconline.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,ivy.pchouse.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,adtrack.ucweb.com,🛑 全球拦截
- - DOMAIN-SUFFIX,track.uc.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,alog.umeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,alogs.umeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,alog.umengcloud.com,🛑 全球拦截
- - DOMAIN-SUFFIX,alogs.umengcloud.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ar.umeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,plbslog.umeng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ulogs.umengcloud.com,🛑 全球拦截
- - DOMAIN-SUFFIX,a.wkanx.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cwx.lianwangtech.com,🛑 全球拦截
- - DOMAIN-SUFFIX,c1wx.lianwangtech.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.ximalaya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adse.ximalaya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adse.wsa.ximalaya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com,🛑 全球拦截
- - DOMAIN-SUFFIX,apm-track.xiaohongshu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,t-ads.xiaohongshu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,atm.youku.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ad.mobile.youku.com,🛑 全球拦截
- - DOMAIN-SUFFIX,iyes.youku.com,🛑 全球拦截
- - DOMAIN-SUFFIX,apppv.zol.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,pvnapp.zol.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,17gouwuba.com,🛑 全球拦截
- - DOMAIN-SUFFIX,186078.com,🛑 全球拦截
- - DOMAIN-SUFFIX,189zj.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,285680.com,🛑 全球拦截
- - DOMAIN-SUFFIX,3721zh.com,🛑 全球拦截
- - DOMAIN-SUFFIX,4336wang.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,51chumoping.com,🛑 全球拦截
- - DOMAIN-SUFFIX,51mld.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,51mypc.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,58mingri.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,58mingtian.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,5vl58stm.com,🛑 全球拦截
- - DOMAIN-SUFFIX,6d63d3.com,🛑 全球拦截
- - DOMAIN-SUFFIX,7gg.cc,🛑 全球拦截
- - DOMAIN-SUFFIX,91veg.com,🛑 全球拦截
- - DOMAIN-SUFFIX,9s6q.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,adsame.com,🛑 全球拦截
- - DOMAIN-SUFFIX,aiclk.com,🛑 全球拦截
- - DOMAIN-SUFFIX,akuai.top,🛑 全球拦截
- - DOMAIN-SUFFIX,atplay.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,baiwanchuangyi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,bayimob.com,🛑 全球拦截
- - DOMAIN-SUFFIX,beerto.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,beilamusi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,benshiw.net,🛑 全球拦截
- - DOMAIN-SUFFIX,bianxianmao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,bryonypie.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cishantao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cszlks.com,🛑 全球拦截
- - DOMAIN-SUFFIX,cudaojia.com,🛑 全球拦截
- - DOMAIN-SUFFIX,dafapromo.com,🛑 全球拦截
- - DOMAIN-SUFFIX,daitdai.com,🛑 全球拦截
- - DOMAIN-SUFFIX,dsaeerf.com,🛑 全球拦截
- - DOMAIN-SUFFIX,dugesheying.com,🛑 全球拦截
- - DOMAIN-SUFFIX,dv8c1t.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,echatu.com,🛑 全球拦截
- - DOMAIN-SUFFIX,erdoscs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,fan-yong.com,🛑 全球拦截
- - DOMAIN-SUFFIX,feih.com.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,fjlqqc.com,🛑 全球拦截
- - DOMAIN-SUFFIX,fkku194.com,🛑 全球拦截
- - DOMAIN-SUFFIX,freedrive.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,gclick.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,goufanli100.com,🛑 全球拦截
- - DOMAIN-SUFFIX,goupaoerdai.com,🛑 全球拦截
- - DOMAIN-SUFFIX,gouwubang.com,🛑 全球拦截
- - DOMAIN-SUFFIX,gzxnlk.com,🛑 全球拦截
- - DOMAIN-SUFFIX,haoshengtoys.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ichaosheng.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ishop789.com,🛑 全球拦截
- - DOMAIN-SUFFIX,jdkic.com,🛑 全球拦截
- - DOMAIN-SUFFIX,jiubuhua.com,🛑 全球拦截
- - DOMAIN-SUFFIX,jwg365.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,kawo77.com,🛑 全球拦截
- - DOMAIN-SUFFIX,kualianyingxiao.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,kumihua.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ltheanine.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,maipinshangmao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,minisplat.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,mkitgfs.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mlnbike.com,🛑 全球拦截
- - DOMAIN-SUFFIX,mobjump.com,🛑 全球拦截
- - DOMAIN-SUFFIX,nbkbgd.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,newapi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,pinzhitmall.com,🛑 全球拦截
- - DOMAIN-SUFFIX,poppyta.com,🛑 全球拦截
- - DOMAIN-SUFFIX,qianchuanghr.com,🛑 全球拦截
- - DOMAIN-SUFFIX,qichexin.com,🛑 全球拦截
- - DOMAIN-SUFFIX,qinchugudao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,quanliyouxi.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,qutaobi.com,🛑 全球拦截
- - DOMAIN-SUFFIX,ry51w.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,sg536.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,sifubo.cn,🛑 全球拦截
- - DOMAIN-SUFFIX,sifuce.cn,🛑 全球拦截
+ - DOMAIN-SUFFIX,xy.comIX,sifuce.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,sifuda.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,sifufu.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,sifuge.cn,🛑 全球拦截
